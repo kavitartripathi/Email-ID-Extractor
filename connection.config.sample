@@ -2,6 +2,6 @@
 <ImapConfiguration>
 	<Server>imap.gmail.com</Server>
 	<Port>993</Port>
-	<UserName>username@gmail.com</UserName>
-	<Password>password</Password>
+	<UserName>username</UserName>
+	<Password>password(Possibly need to create App Password)</Password>
 </ImapConfiguration>
